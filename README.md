@@ -40,7 +40,7 @@ python app.py
 
 # Flask SQLite REST API
 
-A simple **Flask RESTful API** that uses **SQLite** as its database.  
+A simple Flask RESTful API that uses SQLite as its database.  
 It supports full CRUD operations (Create, Read, Update, Delete) for managing users with proper error handling.
 
 ---
