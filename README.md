@@ -14,10 +14,3 @@ It supports full CRUD operations (Create, Read, Update, Delete) for managing use
 - ⚠️ Error handling for **400, 404, and 500** status codes
 
 ---
-
-## 🛠️ Installation & Setup
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/flask-sqlite-api.git
-cd flask-sqlite-api
