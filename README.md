@@ -57,11 +57,3 @@ It supports full CRUD operations (Create, Read, Update, Delete) for managing use
 | DELETE | `/users/<id>`| Delete a user               |
 
 ---
-
-### 🔹 Detailed Instructions
-
-#### 1️⃣ Create User
-**Request**
-```http
-POST /users
-Content-Type: application/json
